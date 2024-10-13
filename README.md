@@ -33,3 +33,11 @@ See `contributing.md` for ways to get started.
 
 [![GPL-2.0](https://img.shields.io/badge/License-GPL%20v2-yellow.svg)](https://opensource.org/licenses/)
 
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Jonghakseo - chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
